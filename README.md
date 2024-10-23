@@ -37,7 +37,7 @@ The engine allows users to control the horizontal and vertical rotation of the r
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/RenderEngine3D.git](https://github.com/abhimittal1311/3D-Model-Render-Engine.git
+   git clone https://github.com/abhimittal1311/3D-Model-Render-Engine.git
    ```
 2. Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
 3. Run the `RenderEngine3D` class to start the application.
